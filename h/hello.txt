@@ -1,1 +1,1 @@
-Hola mundo este es mi primera intro a git
+Hola mundo esta es mi primera intro a git
